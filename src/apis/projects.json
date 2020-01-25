@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Cocteleio",
+        "description": "A coctail finder application. Search your cocktail either by name or by ingredient. I made this project to practice AJAX requests on APIs, as well as the MVC model.",
+        "technologies": ["HTML5", "CSS3", "Javascript ES6", "Webpack", "Babel"],
+        "github": "https://github.com/bobasicuanita/Cocteleio"
+    },
+    {
+        "id": "2",
+        "title": "React Calculator",
+        "description": "Simple Calculator. You can make all basic operations. My first React-Redux practice project. In the future more stuff will be added such as: more complicated operations and actions. Also it will become more interactive with the user.",
+        "technologies": ["HTML5", "CSS3", "Javascript ES6", "React + Redux", "Webpack", "Babel"],
+        "github": "https://github.com/bobasicuanita/React-Calculator"
+    },
+    {
+        "id": "3",
+        "title": "Noter App",
+        "description": "A simple Note app. A React based application I made to practice CRUD. It uses a fake JSON server to fetch all notes. You can Create a note, Read a note , Update a note and Delete it. In the future more functions will be added as well as more styling.",
+        "technologies": ["HTML5", "CSS3", "Javascript ES6", "React", "Webpack", "Babel"],
+        "github": "https://github.com/bobasicuanita/Noter"
+    }
+]

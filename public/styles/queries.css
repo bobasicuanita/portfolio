@@ -1,0 +1,188 @@
+@media only screen and (max-width: 1280px) {
+    html {
+        font-size: 16px;
+    }
+
+    .skill-tab {
+		width: 90%; 
+    }
+    
+    .skills {
+        width: 100%;
+    }
+
+    .letters {
+        font-size: 80%;
+    }
+    
+    .inputfields {
+        width: 320px;
+    }
+    
+    .first-input-fields {
+        width: 90%;
+    }
+    
+    .second-input-fields {
+        width: 80.5%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .container {
+        margin: 10%;
+    }
+
+    .skill-tab {
+		width: 90%; 
+    }
+    
+    .skills {
+        width: 100%;
+    }
+
+    .text {
+        font-size: 100%;
+    }
+    
+    .first-input-fields {
+        width: 90.5%;
+    }
+    
+    .second-input-fields {
+        width: 85.5%;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+
+    .centered-container {
+        margin: 12% 10% 8% 27%;
+    }
+
+    .container {
+        margin: 12%;
+    }
+
+    .navlist {
+        margin-left: 20%;
+    }
+
+    .letters {
+        font-size: 80%;
+    }
+
+    .inputfields {
+        width: 276px;
+    }
+    
+    .first-input-fields {
+        width: 90.5%;
+    }
+    
+    .second-input-fields {
+        width: 85.5%;
+    }
+
+    .skill-name_name {
+        margin-top: 5%;
+        font-size: 80%;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    html {
+        font-size: 14px;
+    }
+
+    .centered-container {
+        margin: 15% 10% 0 5%;
+    }
+
+    .letters {
+        font-size: 70%;
+    }
+
+    .navlist {
+        margin-left: 0;
+    }
+
+    .projects-layout {
+        margin-top:30%;
+    }
+
+    .row {
+        margin: 10% 16% 0 10%;
+    }
+
+    .col {
+        margin: 5%;
+        float: none;
+        width: 100%;
+    }
+
+    .col:first-child {
+        margin-left: 5%;
+    }
+
+    .span-1-of-3 {
+        width: 100%;
+    }
+
+    .skills-title {
+        margin-left: 14%;
+    }
+
+    .skill-name_name {
+        margin-top: 40%;
+        font-size: 90%;
+    }
+
+    .action {
+        margin-left: 13.5%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    html {
+        font-size: 14px;
+    }
+
+    .navlist {
+        padding: 0;
+    }
+
+    .contact-list {
+        display: none;
+    }
+
+    .ml10 {
+        margin-top: 30%;
+    }
+
+    .letters {
+        font-size: 50%;
+    }
+
+    .projects-layout {
+        margin-top:60%;
+    }
+
+    .skills-title {
+        margin-top: 30%;
+    }
+
+    .inputfields {
+        width: 179px;
+    }
+    
+    .first-input-fields {
+        width: 90.5%;
+    }
+    
+    .second-input-fields {
+        width: 85.5%;
+    }
+}

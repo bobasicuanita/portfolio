@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "skill": "HTML5",
+        "percentage": "80"
+    },
+    {
+        "id": "2",
+        "skill": "CSS3",
+        "percentage": "65"
+    },
+    {
+        "id": "3",
+        "skill": "Javascript",
+        "percentage": "70"
+    },
+    {
+        "id": "4",
+        "skill": "React",
+        "percentage": "65"
+    },
+    {
+        "id": "5",
+        "skill": "Redux",
+        "percentage": "75"
+    },
+    {
+        "id": "6",
+        "skill": "Babel",
+        "percentage": "45"
+    },
+    {
+        "id": "7",
+        "skill": "Webpack",
+        "percentage": "40"
+    },
+    {
+        "id": "8",
+        "skill": "Bootstrap",
+        "percentage": "80"
+    },
+    {
+        "id": "9",
+        "skill": "Git",
+        "percentage": "60"
+    },
+    {
+        "id": "10",
+        "skill": "APIs",
+        "percentage": "70"
+    }
+]
